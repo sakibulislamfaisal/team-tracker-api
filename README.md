@@ -9,7 +9,7 @@ A single page Team Tracker app where All Football Team League information show t
 ### Features
 
 - show All Team
-- Team Details By Single Team
+- Team Details of every Single Team
 
 ### Front-end Technology :
 
